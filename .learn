@@ -5,3 +5,4 @@ tags:
 languages:
   - ruby
 resources: 0
+parent_template: git@github.com:learn-co-curriculum/my_find_code_along.git
